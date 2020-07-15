@@ -7,11 +7,11 @@ import os
 
 
 def rename():
-  sign_dir = f'road-sign'
+  sign_dir = f'sa-hinh'
   for root, _, files in os.walk(sign_dir):
     for f in files:
-      if 'Vietnam_road_sign_' in f:
-        f_new = f.replace('Vietnam_road_sign_','').lower()
+      if '_Cau' in f:
+        f_new = f.replace('450-cau-hoi-sat-hach-lai-xe_Cau','').lower()
         os.rename( f'{root}/{f}',f'{root}/{f_new}')
 
 
