@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="220.2218mm"
+   height="115.72073mm"
+   viewBox="0 0 220.2218 115.72073"
+   version="1.1"
+   id="svg15695"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Vietnam_road_sign_I449.svg">
+  <defs
+     id="defs15689" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="742.34505"
+     inkscape:cy="281.06309"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata15692">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(134.89048,-198.1915)">
+    <path
+       id="rect8527"
+       style="fill:#00009d;fill-opacity:1;stroke-width:0.26458332"
+       d="m -134.89048,198.1915 0.41551,115.72073 219.11489,-0.23134 0.6914,-115.28163 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect8527-9"
+       style="fill:#fdfcff;fill-opacity:1;stroke-width:0.25619769"
+       d="M -132.46999,199.97977 -132.0639,310.9995 82.08127,310.77755 82.757,200.17908 Z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect8527-9-4"
+       style="fill:#000098;fill-opacity:1;stroke-width:0.24675742"
+       d="m -129.91133,202.88311 0.39555,105.7311 209.32255,-0.21137 -0.07323,-105.32991 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#fdfcff;fill-opacity:1;stroke-width:0.10280321"
+       d="m -106.41635,282.2165 c 0.0823,-0.21724 19.31864,-52.95003 19.42668,-53.2546 l 0.10077,-0.2841 3.34896,0.027 3.34895,0.027 9.69725,26.57464 c 5.33349,14.61605 9.72519,26.67923 9.75935,26.80709 l 0.0621,0.23245 -4.25109,-0.0269 -4.25109,-0.0269 -2.04758,-6.03969 -2.0476,-6.03969 -10.18697,3.1e-4 -10.18696,3.1e-4 -2.12222,6.03938 -2.1222,6.03939 -4.28873,0.0269 c -3.41721,0.0214 -4.27875,3.9e-4 -4.2396,-0.1028 z m 29.46138,-22.82345 c -1.41549,-4.12046 -5.15504,-15.32209 -5.95772,-17.84607 -0.31558,-0.99232 -0.5647,-1.62367 -0.60849,-1.54205 -0.0407,0.076 -1.05391,3.14007 -2.25139,6.80901 -1.19748,3.66892 -2.91476,8.80226 -3.81619,11.4074 -0.90143,2.60514 -1.63896,4.74986 -1.63896,4.76607 0,0.0162 3.49147,0.0294 7.75882,0.0294 h 7.75884 z"
+       id="path5712"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsccccccccccccccsccssscc" />
+    <path
+       style="fill:#fdfcff;fill-opacity:1;stroke-width:0.10280321"
+       d="m -54.58608,255.66506 v -26.78023 h 4.00932 4.00933 v 11.46256 11.46255 h 10.69153 10.69154 v -11.46255 -11.46256 h 4.00932 4.00933 v 26.78023 26.78024 h -4.00933 -4.00932 V 270.77714 259.10897 H -35.8759 -46.56743 v 11.66817 11.66816 h -4.00933 -4.00932 z"
+       id="path5712-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#fdfcff;fill-opacity:1;stroke-width:1.50347137"
+       d="M 10.9776,237.34561 3.6030804,242.925 v -8.16085 L 10.9776,229.25544 h 7.40611 v 53.51759 H 10.9776 Z"
+       id="path6032" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#fdfcff;fill-opacity:1;stroke-width:1.47343779"
+       d="m 25.23666,267.11747 16.97546,-37.59474 h 8.09511 L 33.149,267.11747 h 13.26686 v -15.10564 h 7.26111 v 15.10564 h 4.07549 v 7.04305 h -4.07549 v 7.81071 h -7.26111 v -7.80481 l -21.1792,-0.005 z"
+       id="path6038" />
+  </g>
+</svg>
